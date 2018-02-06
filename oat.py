@@ -14,7 +14,7 @@ from googletrans import Translator
 #JANGAN LUPA =>  sudo pip install bs4 => sudo pip install BeautifulSoup => sudo pip install urllib => sudo pip install requests => sudo pip install gTTS
 
 cl = PUY.LINE()
-cl.login(qr=True)
+cl.login(token="EpfpkIB8BOJ25dcOcWs7.7sgjh/EOrtA1KNBGoiUELW.ZyDOo8kZONbPrqXeR/kLC76BQtkl4cSyLK0dzBfeWGw=")
 cl.loginResult()
 
 print "\n[PRANK LOGIN SELESAI]"
@@ -142,7 +142,7 @@ helptranslate ="""
 KAC=[cl]
 mid = cl.getProfile().mid
 Bots=[mid]
-admin=[You]
+admin=[ued21891fe7a84536b59276e0388b9e97]
 
 wait = {
     "likeOn":False,
