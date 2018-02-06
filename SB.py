@@ -14,7 +14,7 @@ from googletrans import Translator
 #JANGAN LUPA =>  sudo pip install bs4 => sudo pip install BeautifulSoup => sudo pip install urllib => sudo pip install requests => sudo pip install gTTS
 
 cl = PUY.LINE()
-cl.login(token="Ep9oNQWdJ539WD03vTm0.6Ygil3nDI6PEip9z7r/5Ga.8kUQpowqN5+EjNe/3ywmDBQU2Zb2vGCht2FTH7aqVBk=")
+cl.login(qr=True)
 cl.loginResult()
 
 print "\n[PRANK LOGIN SELESAI]"
@@ -36,7 +36,7 @@ helpmsg ="""
 ╠══════════════════════
 ║       T̲̅H̲̅A̲̅I̲̅  A̲̅I̲̅R̲̅W̲̅A̲̅Y̲̅S̲̅™
 ╠══════════════════════
-╠➩http://line.me/ti/p/~cake.bot
+╠➩http://line.me/ti/p/~4g202
 ╠➩http://line.me/ti/p/~cecabookbot
 ╚══════════════════════"""
 
@@ -171,7 +171,7 @@ wait = {
 ╠➩หลังจากนั้นเพิ่มคำระ 5 บาท
 ╠═════════════════════
 ╠📲สนใจติดต่อ
-╠http://line.me/ti/p/~cake.bot
+╠http://line.me/ti/p/~4g202
 ╠http://line.me/ti/p/~cecabookbot
 ╚═════════════════════""",
     "lang":"JP",
